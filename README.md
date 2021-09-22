@@ -4,7 +4,7 @@ This Project using NodeMCU ESP8266 with Arduino IDE for programming the board. F
 
 [NodeMCU Source Code]((https://github.com/rafeyosa/ESP8266-to-AWS-IoT-Core))
 
-Application using MVVM Pattern with Application using MVVM Pattern with program to **Connect** and **Subscribe** into AWS IoT Core. For additional option to **Publish** you can use this program:
+Application using MVVM Pattern with program to **Connect** and **Subscribe** into AWS IoT Core. For additional option to **Publish** you can use this program:
 
 	val topic: String = "topic"
 	val msg: String = "message"
